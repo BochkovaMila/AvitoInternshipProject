@@ -1,0 +1,17 @@
+{
+  "employees": [
+    {
+      "name": "John",
+      "phone_number": "769453",
+      "skills": []
+    },
+    {
+      "name": "Diego",
+      "phone_number": "987924",
+      "skills": [
+        1,
+        2
+      ]
+    }
+  ]
+}

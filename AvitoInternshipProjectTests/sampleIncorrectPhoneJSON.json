@@ -1,0 +1,23 @@
+{
+  "company": {
+    "name": "Avito",
+    "employees": [
+      {
+        "name": "John",
+        "phone_number": 769453,
+        "skills": [
+          "Swift",
+          "iOS"
+        ]
+      },
+      {
+        "name": "Diego",
+        "phone_number": 987924,
+        "skills": [
+          "Kotlin",
+          "Android"
+        ]
+      }
+    ]
+  }
+}
